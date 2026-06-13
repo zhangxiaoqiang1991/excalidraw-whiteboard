@@ -89,3 +89,26 @@ npx skills add zhangxiaoqiang1991/excalidraw-whiteboard
 ## 许可证
 
 MIT
+
+---
+
+## 关于我
+
+**大厂转型人强哥**（全网同名）
+
+河北邯郸人，曾武汉求学，现居北京。曾就职腾讯、字节跳动。目前负责 AI + 内容增长、产品运营。关注以下三方面的机会，欢迎交流 / 围观朋友圈：
+
+- **AI 内容运营**：从战略、策略到执行的内容增长
+- **AI 培训 / 布道**：帮团队真正用好 AI，不只是上个课
+- **AI 内部提效**：搭建工具流，把 AI 落地到业务流程里
+
+**找到我：**
+
+| 平台 | 账号 |
+|------|------|
+| 微信 | `qianggegood123`（有付费社群和咨询，若感兴趣私聊即可） |
+| 小红书 | [强哥 @andyxqzhang](https://www.xiaohongshu.com/user/profile/andyxqzhang) |
+| Twitter / X | [@andyxqzhang001](https://x.com/andyxqzhang001) |
+| GitHub | [zhangxiaoqiang1991](https://github.com/zhangxiaoqiang1991) |
+
+有任何问题或反馈，欢迎提 [Issues](https://github.com/zhangxiaoqiang1991/excalidraw-whiteboard/issues) 或加微信交流。这些反馈比 star 值钱。
