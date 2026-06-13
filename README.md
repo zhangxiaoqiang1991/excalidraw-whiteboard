@@ -13,6 +13,17 @@
 > 尺寸：每张 **500×667px（3:4 竖版）**，适配手机画幅录屏展示。
 > 多张幻灯片可合并为纵向白板，滚动浏览。
 
+## 使用方式
+
+**获取到 `.excalidraw` 文件后：**
+
+1. 打开 [excalidraw.com](https://excalidraw.com) 或 [xdraw.app](https://xdraw.app)
+2. 点击 **Open → 选择文件**
+3. 所有文字、框、箭头可随意拖拽修改
+4. 改完后 Export → Image 导出 PNG/SVG
+
+> 支持**二次编辑**。你可以随时打开文件调整文字、移动布局、修改颜色，全部保留可编辑状态。
+
 ## 安装
 
 ```bash
@@ -53,6 +64,16 @@ npx skills add zhangxiaoqiang1991/excalidraw-whiteboard
 | 合并白板 | 500 × (n × 640)px | n 为页数，录屏时纵向滚动 |
 | 视频配图 | 500 × 667px | 直接截图或导出 PNG |
 | 小红书 | 500 × 667px | 适配竖版图文 |
+
+## 打开方式
+
+`.excalidraw` 文件可以用以下方式打开：
+
+| 方式 | 链接 | 说明 |
+|------|------|------|
+| **Excalidraw** | [excalidraw.com](https://excalidraw.com) | 官方白板工具，免费，无需注册 |
+| **XDraw** | [xdraw.app](https://xdraw.app) | 中文界面，体验更顺畅 |
+| **VS Code 插件** | 插件市场搜 `excalidraw` | 开发者友好，可在编辑器内编辑 |
 
 ## 依赖
 
