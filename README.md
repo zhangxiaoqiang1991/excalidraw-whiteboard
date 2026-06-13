@@ -6,9 +6,21 @@
 
 ## 长什么样？
 
+### 案例一：获客方向
+
 | 推翻旧认知 | 临界点 | 沉没成本 |
 |-----------|--------|---------|
 | ![推翻旧认知](assets/slide01_overview.svg) | ![临界点](assets/slide02_critical.svg) | ![沉没成本](assets/slide03_sunkcost.svg) |
+
+### 案例二：成交时刻（8页完整白板）
+
+| 标题 | 路径vs成交时刻 | 维他命vs止疼药 | 养鱼vs捞鱼 |
+|------|---------------|----------------|-----------|
+| ![标题](assets/slide01_moment.svg) | ![路径vs成交时刻](assets/slide02_moment.svg) | ![维他命vs止疼药](assets/slide03_moment.svg) | ![养鱼vs捞鱼](assets/slide04_moment.svg) |
+
+| 餐饮案例 | 决策分叉 | 情绪驱动 | 爆款vs出单 |
+|---------|---------|---------|-----------|
+| ![餐饮案例](assets/slide05_moment.svg) | ![决策分叉](assets/slide06_moment.svg) | ![情绪驱动](assets/slide07_moment.svg) | ![爆款vs出单](assets/slide08_moment.svg) |
 
 > 尺寸：每张 **500×667px（3:4 竖版）**，适配手机画幅录屏展示。
 > 多张幻灯片可合并为纵向白板，滚动浏览。
