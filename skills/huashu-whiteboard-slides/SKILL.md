@@ -13,7 +13,17 @@ Generate a series of whiteboard-style slides in qiangge's signature style: hand-
 
 Perfect for knowledge-sharing talking-head videos, screen-record explainers, and Xiaohongshu/Douyin content.
 
-> **参考来源**：本 Skill 吸收了 [`Agents365-ai/excalidraw-skill`](https://github.com/Agents365-ai/excalidraw-skill) 的 Excalidraw JSON 生成规范（字段规则、元素类型、间距系统），但视觉风格完全独立——该 skill 默认干净整洁风，而本 skill 是强哥专属的手写教学白板风格。
+## 重要前提：先磨脚本，再出白板
+
+**这个 Skill 是视觉输出工具，不是内容创作工具。**
+
+正确的使用顺序：
+1. **先把口播脚本磨好** — 用 DBS 内容诊断、对标爆款脚本、AI 反复润色，直到脚本结构稳了、表达口语化了、认知落差立住了
+2. **再用这个 Skill 出白板** — 把打磨好的脚本拆成 5-7 个知识点，每一页对应一个知识点，生成白板图
+
+**原材料（脚本）没准备好之前，不要调用这个 Skill。** 没有好的脚本，白板做得再漂亮也是空壳。
+
+> 参考来源：本 Skill 吸收了 [`Agents365-ai/excalidraw-skill`](https://github.com/Agents365-ai/excalidraw-skill) 的 Excalidraw JSON 生成规范（字段规则、元素类型、间距系统），但视觉风格完全独立——该 skill 默认干净整洁风，而本 skill 是强哥专属的手写教学白板风格。
 
 ---
 

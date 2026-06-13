@@ -38,14 +38,20 @@ npx skills add zhangxiaoqiang1991/excalidraw-whiteboard
 
 ## 使用方法
 
-在 Claude Code 中调用 Skill：
+> ⚠️ **先磨脚本，再出白板。** 这个工具是视觉输出工具，不是内容创作工具。脚本没磨好之前不要用。
+
+**正确流程：**
+
+```
+第一步：用 DBS 打磨口播脚本 → 脚本定稿
+第二步：调用 huashu-whiteboard-slides → 生成白板图
+第三步：excalidraw.com 打开 → 录屏 / 截图
+```
+
+**在 Claude Code 中调用 Skill：**
 
 > 用 huashu-whiteboard-slides 帮我做一套白板幻灯片
-> 脚本是：[粘贴你的脚本]
-
-或者直接说：
-
-> 帮我写一条获客视频脚本，然后用白板幻灯片做出来
+> 脚本是：[粘贴你已打磨好的脚本]
 
 ## 设计风格
 
