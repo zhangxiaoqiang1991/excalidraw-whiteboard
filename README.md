@@ -44,6 +44,15 @@ npx skills add zhangxiaoqiang1991/excalidraw-whiteboard
 第三步：excalidraw.com 打开 → 录屏 / 截图
 ```
 
+**生成的文件：**
+
+执行完后会在桌面（`~/Desktop/`）生成以下文件：
+
+- `${主题}_白板.excalidraw` — 合并长图，打开后一张接一张展示，适合录屏
+- `${主题}_第1页.excalidraw`、`${主题}_第2页.excalidraw`... — 每张单页文件，可独立编辑
+
+所有文件用 excalidraw.com 或 xdraw.app 打开，支持二次编辑。
+
 ## 设计风格
 
 - **字体**: Excalifont (fontFamily: 5) — 手写质感
