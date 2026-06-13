@@ -147,9 +147,9 @@ els.push(wavy("wave1", 190, 500, 140));
 
 - 每页宽度：500px
 - 每页高度：580px
-- 页间距：60px
+- 页间距：250px（录屏时一次只看到一张，推荐 200-300px）
 
-偏移公式：`offsetY = pageIndex * (580 + 60)`
+偏移公式：`offsetY = pageIndex * (580 + 250)`
 
 合并后的白板文件可以直接在 excalidraw.com 打开，滚动录屏。
 
