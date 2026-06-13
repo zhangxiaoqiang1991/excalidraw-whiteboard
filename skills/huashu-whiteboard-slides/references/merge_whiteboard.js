@@ -17,7 +17,7 @@ const files = [
 
 const SLIDE_W = 500;   // 每张宽度
 const SLIDE_H = 580;   // 每张高度
-const GAP = 250;       // 间距（录屏时一次只看到一张，推荐 200-300px）
+const GAP = 420;       // 间距（录屏时保证一次只看一张，推荐 400-500px）
 
 let allEls = [];
 let globalSeed = 1;

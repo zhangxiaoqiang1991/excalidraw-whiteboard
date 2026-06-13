@@ -30,12 +30,6 @@
 npx skills add zhangxiaoqiang1991/excalidraw-whiteboard
 ```
 
-## 技能包
-
-| Skill | 说明 |
-|-------|------|
-| `huashu-whiteboard-slides` | 强哥风格的白板幻灯片生成器 — 将脚本/大纲转化为 Excalidraw 白板图 |
-
 ## 使用方法
 
 > ⚠️ **先磨脚本，再出白板。** 这个工具是视觉输出工具，不是内容创作工具。脚本没磨好之前不要用。
@@ -43,15 +37,10 @@ npx skills add zhangxiaoqiang1991/excalidraw-whiteboard
 **正确流程：**
 
 ```
-第一步：用 DBS 打磨口播脚本 → 脚本定稿
-第二步：调用 huashu-whiteboard-slides → 生成白板图
+第一步：用 AI 打磨口播脚本 → 脚本定稿
+第二步：调用白板幻灯片 Skill → 生成白板图
 第三步：excalidraw.com 打开 → 录屏 / 截图
 ```
-
-**在 Claude Code 中调用 Skill：**
-
-> 用 huashu-whiteboard-slides 帮我做一套白板幻灯片
-> 脚本是：[粘贴你已打磨好的脚本]
 
 ## 设计风格
 
