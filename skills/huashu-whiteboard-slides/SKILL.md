@@ -1,5 +1,5 @@
 ---
-name: huashu-whiteboard-slides
+name: excalidraw-whiteboard
 description: 强哥风格的白板幻灯片生成器。手写Excalifont字体、黑白红三色、手绘粗糙感、3:4竖版、教学白板风。用于知识口播视频的配图、录屏展示、小红书/抖音内容素材。
 metadata:
   version: 1.0.0
@@ -7,7 +7,7 @@ metadata:
   style: handdrawn-teaching-whiteboard
 ---
 
-# 强哥白板幻灯片（huashu-whiteboard-slides）
+# 强哥白板幻灯片（excalidraw-whiteboard）
 
 Generate a series of whiteboard-style slides in qiangge's signature style: hand-drawn Excalifont, black-white-red palette, rough sketch feel, 3:4 vertical format, teaching whiteboard aesthetic.
 
@@ -81,6 +81,22 @@ Perfect for knowledge-sharing talking-head videos, screen-record explainers, and
 - **每页不超过 15-20 个元素**（元素 = 矩形 + 文字 + 箭头 + 线条合并计算）
 - **每页不超过 4-5 个核心信息点**
 - 如果信息太多，拆分到下一页
+
+### 关键原则：宁可多页，不要拥挤
+
+这是生成白板时最容易犯的错——想把所有信息塞到一页里。
+
+**正确做法：**
+
+- 一个案例有三步改动 → 拆成两页甚至三页（第一页放改动①+②，第二页放改动③+结果）
+- 不要在一页里放超过 3 个对比框（❌→✅），多了一个就拆到下一页
+- 改造前后的对照，一定要分页展示。先讲"改造前的问题"（一页），再讲"改造后的改动"（一两页）
+
+**判断标准：**
+
+打开 excalidraw.com 看一眼——如果你觉得"字有点挤"、"框挨着框"、"看不太清楚"，那就是信息太多了。拆页。
+
+**页间距（合并白板时）：** 420px。保证录屏时一次只看一张，上下页不会提前露出。
 
 ### 箭头使用规范（左侧概念→右侧解释）
 
